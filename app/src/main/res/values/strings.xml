@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">contextmenu</string>
+
+    <color name="clred">#F00</color>
+    <color name="clrgreen">#0F0</color>
+    <color name="clrble">#00F</color>
+</resources>
